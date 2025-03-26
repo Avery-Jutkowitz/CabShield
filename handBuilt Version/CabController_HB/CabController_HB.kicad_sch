@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5c78a124-e1ff-4026-817c-c6044183edef")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 41.91 58.42)
+		(size 33.02 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0074bff7-2a2d-4b7c-bbf5-ea3ecd04fb02")
+		(property "Sheetname" "TDU_Interface"
+			(at 41.91 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TDU_Interface.kicad_sch"
+			(at 41.91 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 109.22)
+		(size 83.82 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8a90fcd7-c01b-4bd3-a488-378c9f144f7b")
+		(property "Sheetname" "NucleoH723"
+			(at 124.46 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Nucleo723.kicad_sch"
+			(at 124.46 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 96.52)
+		(size 36.83 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a952a1ae-21c4-4522-9c11-38542c85e027")
+		(property "Sheetname" "Battery"
+			(at 44.45 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Battery.kicad_sch"
+			(at 44.45 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 31.75)
+		(size 29.21 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3ab7d5e-3e50-4d1c-b8b4-8dafa05e9270")
+		(property "Sheetname" "CANbus"
+			(at 52.07 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CANbus.kicad_sch"
+			(at 52.07 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 30.48)
+		(size 30.48 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cca24280-264f-4661-bd9a-abd9de50a947")
+		(property "Sheetname" "PowerDCDC"
+			(at 135.89 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerDCDC.kicad_sch"
+			(at 135.89 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 72.39)
+		(size 48.26 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5cd4c6b-cf34-4fe2-b9a3-ce5dd0c8ce04")
+		(property "Sheetname" "SafetyLoop"
+			(at 125.73 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SafetyLoop.kicad_sch"
+			(at 125.73 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
