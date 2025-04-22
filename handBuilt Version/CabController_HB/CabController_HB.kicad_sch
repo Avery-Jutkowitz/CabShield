@@ -120,6 +120,44 @@
 		)
 	)
 	(sheet
+		(at 43.18 142.24)
+		(size 59.69 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1095d10-e41f-4c22-a13a-d71bff30d148")
+		(property "Sheetname" "TDU_v2"
+			(at 43.18 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TDU_v2.kicad_sch"
+			(at 43.18 177.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CabController_HB"
+				(path "/5c78a124-e1ff-4026-817c-c6044183edef"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 52.07 31.75)
 		(size 29.21 11.43)
 		(fields_autoplaced yes)
